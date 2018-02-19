@@ -12,6 +12,8 @@
 			<div class="container">
 				<h1> ${greeting } </h1>
 				<p> ${tagline } </p>
+				<p><a class="btn btn-primary btn-lg" href="/webstore/products" role="button">Produkty</a></p>
+
 			</div>
 		</div>
 		</section>
